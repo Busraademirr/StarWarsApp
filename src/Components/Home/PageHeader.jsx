@@ -11,7 +11,7 @@ export default function PageHeader() {
     <div>
         <div className='header'>
           <div className="logo">
-            <img src='/public/logo.png' alt="" />
+            <img src='/logo.png' alt="" />
           </div>
           <div className="search">
             <span>Name/Model: </span>
