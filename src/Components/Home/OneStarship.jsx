@@ -17,7 +17,7 @@ function OneStarship() {
             <div key={index} onClick={()=> navigate("/starships/"+item.created)}>
                 <div className="card">
                     <div className="vehicle-img">
-                        <img src="/public/starship.jpg" alt="" />
+                        <img src='/public/starhip.jpg' alt="" />
                     </div>
                     <div className="info">
                         <h1><strong>{item.name}</strong></h1>
