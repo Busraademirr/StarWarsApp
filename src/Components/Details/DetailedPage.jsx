@@ -10,7 +10,7 @@ function DetailedPage({index, item}) {
                 <h1 className='card-header'>{item.name}</h1>
               </div>
               <div className='image-con flex'>
-                <img src="/public/starship.jpg" alt="" />
+                <img src="/starship.jpg" alt="" />
               </div>
               <div className='card-info'>
                 <div>

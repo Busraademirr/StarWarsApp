@@ -1,6 +1,6 @@
 # STARWARS APP
 
-## Live Link : https://swapi.dev/api/starships/2/
+## Live Link : https://main--resilient-jelly-c75558.netlify.app/
 
 #### React is used in this application.
 #### The data on this page was taken from https://swapi.dev/ API.
