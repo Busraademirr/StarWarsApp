@@ -40,9 +40,9 @@ Programın fonksiyonları: Arama alanını kullanarak model adına veya model ad
 ---
 ### Teknolojiler
 - React
--JavaScript
--HTML
--CSS
+- JavaScript
+- HTML
+- CSS
 ---
 ### Proje Tasarımı
 - Bu proje react ile hazırlanmıştır.
