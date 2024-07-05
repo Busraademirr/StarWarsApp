@@ -55,9 +55,3 @@ Programın fonksiyonları: Arama alanını kullanarak model adına veya model ad
 - Her sayfada 10 gemi listelenmektedir. Butonlarla daha fazla gemi görüntülenebilir.
 - Üst kısımdaki filtre alanı ile gemileri hem gemi adına hem de model numarasına göre aranabilir.
 - İstenilen geminin detayları tıklanılarak görüntülenebilir.
----
-### Uygulama görselleri:
-![alt text](/public/sc1.png)
-![alt text](/public/sc2.png)
-![alt text](/public/sc3.png)
-![alt text](/public/sc4.png)
